@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+h1 {
+    align-items: center;
+    font-weight: bold;
+
+}
+
+h2 {
+    font-size: 3rem;
+    font-weight: 900;
+
+} 
+.section3 h3 {
+    align-items: center;
+    margin: 25px;
+}
+.section2 p{
+    line-height: 1.5em;
+}
+.section4 {
+   
+    margin-left: 500px;
+    padding: 10px;
+}
+    .section4 h3{
+        margin: 30px;
+    }
+
+button{
+    margin-top:20px ;
+   margin-left: 25px;
+   
+}
+input{
+padding: 12px;
+border-radius: 10px;
+}
